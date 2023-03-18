@@ -36,10 +36,10 @@ public class Person {
     @Override
     public String toString() {
         return "Person{" +
-                "name='" + name + '/' +
-                ", family='" + family + '/' +
-                ", age='" + age + '/' +
-                ", sex='" + sex + '/' +
+                "name='" + name + '\'' +
+                ", family='" + family + '\'' +
+                ", age='" + age + '\'' +
+                ", sex='" + sex + '\'' +
                 ", education='" + education +
                 '}';
     }
